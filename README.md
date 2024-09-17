@@ -1,5 +1,5 @@
 # EXPERIMENT 4 - Data Wrangling and Data Visualization
-This repository contains my solutions for the fourth experiment in ECE 2112: Advanced Computer Programming and Algorithms. I've used Jupyter Notebook to implement and test my Python code. The data is sourced from the board2.csv file, located within the Jupyter notebook folder. The code will automatically print the results.<br />
+This repository contains my solutions for the fourth experiment in ECE 2112: Advanced Computer Programming and Algorithms. I've used Jupyter Notebook to implement and test my Python code. The data is sourced from the board2.xlsx file, located within the Jupyter notebook folder. The code will automatically print the results.<br />
 
 ### Library Used
 - Pandas: is built on NumPy and provides easy-to-use data structures and data analysis tools for the Python programming language.
